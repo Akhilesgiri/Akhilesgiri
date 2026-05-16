@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Akhilesgiri/Akhilesgiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akhil.
 
-Here are some ideas to get you started:
+Flutter Developer focused on Backend Development, Python, and Generative AI Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Currently Learning
+
+- Python
+- FastAPI
+- Flutter Advanced Concepts
+- Generative AI
+- AI Agents
+- RAG Systems
+
+---
+
+# Technologies & Tools
+
+## Mobile Development
+- Flutter
+- Dart
+
+## Backend Development
+- Python
+- FastAPI
+- REST APIs
+
+## Databases
+- SQLite
+- Firebase
+- Firestore
+
+## AI & GenAI
+- OpenAI APIs
+- LangChain
+- Vector Databases
+- RAG
+
+## Tools
+- Git
+- GitHub
+- VS Code
+- PyCharm
+
+---
+
+# Goals
+
+- Become a professional Generative AI Engineer
+- Build scalable AI-powered applications
+- Improve backend engineering skills
+- Build production-ready mobile applications
+
+---
+
+# Featured Repositories
+
+- python-practice
+- flutter-learning
+- genai-learning
